@@ -3,7 +3,7 @@
 
 Installation:
 1.	Download xampp from official website and install.
-2.	Download AHL Application security training and etract it on "C:\xampp\htdocs" (before extract, delete everything inside this folder)
+2.	Download AHL Application security training and extract and copy to "C:\xampp\htdocs" folder (before extract, delete everything inside this folder)
 3.	Open xampp manager, on Apache click "Config" and then "php.ini", find and change the following.
 4.	allow_url_fopen=On.
 5.	allow_url_include=On.
